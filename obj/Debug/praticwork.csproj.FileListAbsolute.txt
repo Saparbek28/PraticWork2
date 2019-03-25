@@ -1,0 +1,6 @@
+C:\Users\БайназарС.CORP\source\repos\praticwork\praticwork\bin\Debug\praticwork.exe.config
+C:\Users\БайназарС.CORP\source\repos\praticwork\praticwork\bin\Debug\praticwork.exe
+C:\Users\БайназарС.CORP\source\repos\praticwork\praticwork\bin\Debug\praticwork.pdb
+C:\Users\БайназарС.CORP\source\repos\praticwork\praticwork\obj\Debug\praticwork.csproj.CoreCompileInputs.cache
+C:\Users\БайназарС.CORP\source\repos\praticwork\praticwork\obj\Debug\praticwork.exe
+C:\Users\БайназарС.CORP\source\repos\praticwork\praticwork\obj\Debug\praticwork.pdb
